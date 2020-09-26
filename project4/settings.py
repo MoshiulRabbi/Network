@@ -74,7 +74,7 @@ WSGI_APPLICATION = 'project4.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-
+         
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
@@ -84,6 +84,9 @@ DATABASES = {
     'timeout': 20,
     # ...
 }
+    }
+    
+}        
 
 AUTH_USER_MODEL = "network.User"
 
