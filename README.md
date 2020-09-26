@@ -2,6 +2,6 @@
 
 This is for CS50 web project
 
-https://demonetwork.azurewebsites.net/
+https://csnetwork.azurewebsites.net
 
 Checking azure deployment
