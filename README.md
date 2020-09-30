@@ -1,4 +1,4 @@
-# Network
+# Network-django
 
 This is for CS50 web project
 
